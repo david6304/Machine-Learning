@@ -1,0 +1,10 @@
+Funny - positive
+Exciting - positive
+Good - positive 
+Bad - negative
+Interesting - positive 
+Disappointing - negative 
+Great - positive
+Liked - positive
+Hated - negative
+Terrible - negative 
